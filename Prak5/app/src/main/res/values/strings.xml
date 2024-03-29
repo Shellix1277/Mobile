@@ -1,0 +1,92 @@
+<resources>
+    <string-array name="fruit_array">
+        <item>яблоки</item>
+        <item>Груши</item>
+        <item>Апельсины</item>
+        <item>Дыни</item>
+    </string-array>
+    <string-array name="apples_array">
+        <item>Красные яблоки</item>
+        <item>Зелёные яблоки</item>
+        <item>Антоновки</item>
+        <!-- Добавьте здесь любые другие наименования продуктов -->
+    </string-array>
+
+    <string-array name="pears_array">
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+        <item>Груши Ладыжки</item>
+        <item>Груши Конференц</item>
+
+        <!-- Добавьте здесь любые другие наименования продуктов -->
+    </string-array>
+
+    <string-array name="oranges_array">
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+        <item>Апельсины Навель</item>
+        <item>Апельсины Морокко</item>
+    </string-array>
+    <string-array name="mellon_array">
+        <item>Дыня</item>
+        <item>Дыня</item>
+        <item>Дыня</item>
+    </string-array>
+    <string name="app_name" />
+</resources>
